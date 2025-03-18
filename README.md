@@ -1,5 +1,6 @@
 
 P2 - Fundamentals of Prism Analytics and Advanced Prism Analytics
+
 Goal: Understand and developer complex reports with prism analytics along with tables and data set, also usage of excel files.​
 
 Description: ​
